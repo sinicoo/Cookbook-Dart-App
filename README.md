@@ -1,4 +1,4 @@
-# ![Logo](images/CBLogo.PNG) CookBook 📖 
+# ![Logo](images/CBlogo.png) CookBook 📖 
 
 **A Dart-based Recipe App**
 
