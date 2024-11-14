@@ -19,13 +19,13 @@ CookBook is a beautifully designed recipe mobile application built using Dart. I
 ### Home Screen
 ![Home Screen](images/food.PNG)
 
-### Recipe Detail
-![Recipe Detail](images/food2.PNG)
+### Recipe Menu
+![Recipe Menu](images/food2.PNG)
 
 ## Tech Stack
 
-- **Language**: Dart
-- **Framework**: Flutter
+- **Language**: Dart <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+- **Framework**: Flutter </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
 
 ## Members
 
