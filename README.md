@@ -1,4 +1,5 @@
-# ![Logo](images/CBlogo.png) CookBook 📖 
+<img src="images/CBlogo.png" alt="Logo" width="50" /> CookBook 📖
+
 
 **A Dart-based Recipe App**
 
