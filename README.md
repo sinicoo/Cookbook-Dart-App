@@ -1,4 +1,4 @@
-<img src="images/CBlogo.png" alt="Logo" width="50" /> CookBook 📖
+<img src="images/CBlogo.png" alt="Logo" width="20" /> CookBook 📖
 
 
 **A Dart-based Recipe App**
