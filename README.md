@@ -17,13 +17,16 @@ CookBook is a beautifully designed recipe mobile application built using Dart. I
 
 ## Screenshots
 
+### Starting Screen
+![Starting Screen](images/cook1.PNG)
+
 ### Home Screen
 ![Home Screen](images/cook2.PNG)
 
-### Recipe Menu
-![Recipe Menu](images/cook3.PNG)
+### Explore Menu
+![Explore Menu](images/cook3.PNG)
 
-### Recipe 
+### Recipe Menu
 ![Recipes](images/cook4.PNG)
 
 ## Tech Stack
