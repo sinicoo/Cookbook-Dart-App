@@ -1,37 +1,24 @@
-<img src="images/CBlogo.png" alt="Logo" width="20" /> CookBook 📖
+# hello_world
 
+A new Flutter project created with https://flutlab.io
 
-**A Dart-based Recipe App**
+## Getting Started
 
-## Project Overview
+This project is a starting point for a Flutter application.
 
-CookBook is a beautifully designed recipe mobile application built using Dart. It allows users to explore, save, and organize a wide variety of recipes, making cooking easy and enjoyable. With features like detailed recipe instructions, ingredient lists, and personalized recipe recommendations, CookBook is the ultimate digital kitchen assistant.
+A few resources to get you started if this is your first Flutter project:
 
-## Features
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
 
-- **Browse Recipes**: Discover recipes across multiple categories, from breakfast to dessert.
-- **Save Favorites**: Bookmark your favorite recipes for easy access anytime.
-- **Step-by-Step Instructions**: Clear, easy-to-follow instructions for each recipe.
-- **Ingredient List**: Automatically organizes the ingredients you need, making grocery shopping convenient.
-- **Personalized Recommendations**: Get recipe suggestions based on your saved favorites and browsing history.
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
-## Screenshots
+## Getting Started: FlutLab - Flutter Online IDE
 
-### Home Screen
-![Home Screen](images/food.PNG)
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
+- Join the discussion and conversation on https://flutlab.io/residents
 
-### Recipe Menu
-![Recipe Menu](images/food2.PNG)
-
-## Tech Stack
-
-- **Language**: Dart 
-- **Framework**: Flutter
-
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-
-## Members
-
-- **Nicolai Isaiah Santos**
-- **John Meynard Demandante**
-- **Webster Pangan**
+If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
